@@ -4,7 +4,6 @@ int main()
 {
     cout<<"hello word";
     cout<<"ddd";
-    cout<<"aaaaa";
-    
+    cout<<"cccc";
     system("pause");
 }
